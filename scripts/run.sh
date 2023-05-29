@@ -1,1 +1,1 @@
-g++ main.cpp -o app && ./app
+g++ -std=c++17 main.cpp -o app && ./app

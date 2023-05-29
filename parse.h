@@ -50,7 +50,7 @@ void print_stack(string* stack, int size_stack) {
     };
 };
 
-void parse_regex(IRegex rx) {
+void pardse_regex(IRegex rx) {
     int regex_size = rx.regex.size();
 
     cout << "regex_size: " << regex_size << endl;
